@@ -1,7 +1,7 @@
 ### Olá! Eu sou Andrey Barros
 
 - 🔭 Estagiário em Desenvolvimento
-- 🌱 Estou aprendendo Python com foco em ciência de dados e machine learn
+- 🌱 HTML / CSS / JS
 - 💬 Contate-me no email: andreycesar02@gmail.com
 
 
