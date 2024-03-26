@@ -1,6 +1,6 @@
 ### Olá! Eu sou Andrey Barros
 
-- 🔭 Estou a procura de um estágio 
+- 🔭 Estagiário em Desenvolvimento
 - 🌱 Estou aprendendo Python com foco em ciência de dados e machine learn
 - 💬 Contate-me no email: andreycesar02@gmail.com
 
