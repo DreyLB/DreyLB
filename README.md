@@ -6,7 +6,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DreyLB&show_icons=true&theme=dracula" alt="Kayky GitHub stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykygameiro01&layout=compact&theme=dracula" alt="Top Langs" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DreyLB&show_icons=true&theme=dracula" alt="Kayky GitHub stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreyLB&layout=compact&theme=dracula" alt="Top Langs" width="360"/>
 
   ##
  
