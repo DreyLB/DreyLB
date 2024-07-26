@@ -1,7 +1,7 @@
 ### Olá! Eu sou Andrey Barros
 
 - 🔭 Estagiário em Desenvolvimento
-- 🌱 HTML / CSS / JS
+- 🌱 HTML / CSS / JS / PHP
 - 💬 Contate-me no email: andreycesar02@gmail.com
 
 
